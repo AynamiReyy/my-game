@@ -3,7 +3,7 @@ import tkinter as tk
 
 import arcade
 
-from game.Game import MyGame
+from game_src.Game import MyGame
 
 
 def get_screen_size() -> tuple[int, int]:
